@@ -8,11 +8,11 @@
 
 **Effective date**: 2026-05-31
 
-**Service**: Schedule Manager (Korean app name: 자녀일정 / ScheMng)
+**Service**: ScheduleManager (Korean app name: 자녀일정 / ScheMng)
 
 **Developer / Operator**: SeungHee. Lee
 
-Schedule Manager ("the App") is a tool that helps a parent or guardian organize a child's preschool, daycare or school notices and schedules. We treat your data — and your child's data — as personal information and process it as follows.
+ScheduleManager ("the App") is a tool that helps a parent or guardian organize a child's preschool, daycare or school notices and schedules. We treat your data — and your child's data — as personal information and process it as follows.
 
 ### 1. Personal information we collect
 
