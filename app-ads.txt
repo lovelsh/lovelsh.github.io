@@ -1,0 +1,2 @@
+# lovelsh apps - AdMob authorization (IAB Tech Lab app-ads.txt spec)
+google.com, pub-5298364153896992, DIRECT, f08c47fec0942fa0
