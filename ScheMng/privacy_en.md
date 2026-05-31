@@ -1,6 +1,8 @@
-# Privacy Policy
+# ScheduleManager (ScheMng) — Privacy Policy
 
-> Public hosted English version. Available at `https://lovelsh.github.io/ScheMng/privacy_en`. App Store Connect references this URL for the English locale.
+Last updated: 2026-05-31
+
+> English version that ships alongside [`privacy_policy_ko.md`](./privacy_policy_ko.md). The publicly hosted copy lives at [`support_site/privacy_en.md`](./support_site/privacy_en.md); App Store Connect references the GitHub Pages URL.
 
 ---
 
@@ -55,8 +57,9 @@ The App requires no account. We do **not** collect any personally identifying in
 
 ### 8. In-App Purchase
 
-- 1.0 ships without any In-App Purchase.
-- If a future "remove ads" IAP is added, it will be processed exclusively through Apple's StoreKit. We store no payment information beyond the transaction receipt.
+- The App offers a one-time **Premium Unlock** in-app purchase (product ID `com.lovelsh.ScheMng.premium`, USD 2.99). Upgrading removes the banner ad and unlocks the schedule file backup/restore feature.
+- All purchases are processed exclusively through Apple's StoreKit. We store no payment information beyond the transaction receipt.
+- The price is auto-converted by Apple per storefront (Tier 3 — roughly ₩3,900–4,400 on the Korean App Store).
 
 ### 9. Retention and deletion
 
@@ -68,7 +71,7 @@ You can view, edit and delete every schedule / child / attached photo directly i
 
 ### 11. Children's data
 
-The App is not designed for use by children under 14. It is a tool **for the parent or guardian** who enters and curates the child's schedule. Please enter only the information necessary for your own household.
+The App is rated **4+** on the App Store (suitable for all ages), but the **primary user is the parent or guardian**. The App is designed for adults to manage their child's schedule and is **not recommended for direct use by children under 14**. Child data (name, school, photos) is entered by the parent under their supervision. The App does not market to children directly and complies with COPPA / Korean PIPA principles — child data entered by the parent never leaves the device through our infrastructure.
 
 ### 12. Contact
 
