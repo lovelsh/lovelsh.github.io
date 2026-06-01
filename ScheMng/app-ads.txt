@@ -1,0 +1,4 @@
+# lovelsh apps - AdMob authorization (IAB Tech Lab app-ads.txt spec)
+# Defensive copy at /ScheMng/ path in case a crawler uses path-relative lookup
+# Spec-compliant primary location: /app-ads.txt at site root
+google.com, pub-5298364153896992, DIRECT, f08c47fec0942fa0
