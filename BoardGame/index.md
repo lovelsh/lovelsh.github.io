@@ -8,8 +8,10 @@ Welcome / 환영합니다.
 
 ## 더 알아보기 / Learn more
 
-- [개인정보 처리방침 (Privacy Policy)](privacy.md) — 어떤 정보를 처리하는지, 어디에 저장되는지 안내
+- [앱 소개 · 마케팅 (About / Marketing)](marketing) — 핵심 기능, 게임 목록, 스크린샷
+- [지원 (Support / FAQ)](support) — 자주 묻는 질문과 문의 안내
+- [개인정보 처리방침 (Privacy Policy)](privacy) — 어떤 정보를 처리하는지, 어디에 저장되는지 안내
 
 ## 문의 / Contact
 
-이메일: `lovelsh.support@gmail.com`
+이메일 / Email: `ibkgpt8434_1@ibk.co.kr`
