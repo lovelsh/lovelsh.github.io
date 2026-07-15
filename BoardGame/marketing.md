@@ -59,4 +59,4 @@
 
 - [지원 / Support](support)
 - [개인정보 처리방침 / Privacy Policy](privacy)
-- 문의 / Contact: `ibkgpt8434_1@ibk.co.kr`
+- 문의 / Contact: `lovelsh.support@gmail.com`

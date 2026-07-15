@@ -14,4 +14,4 @@ Welcome / 환영합니다.
 
 ## 문의 / Contact
 
-이메일 / Email: `ibkgpt8434_1@ibk.co.kr`
+이메일 / Email: `lovelsh.support@gmail.com`

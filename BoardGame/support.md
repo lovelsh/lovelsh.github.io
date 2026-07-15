@@ -5,7 +5,7 @@
 포켓보드를 이용해 주셔서 감사합니다. 문의·버그 신고·기능 제안은 아래 이메일로 보내주세요.
 Thanks for using PocketBoard. For questions, bug reports, or feature requests, email us below.
 
-**문의 / Contact: `ibkgpt8434_1@ibk.co.kr`**
+**문의 / Contact: `lovelsh.support@gmail.com`**
 
 ---
 
@@ -44,7 +44,7 @@ Thanks for using PocketBoard. For questions, bug reports, or feature requests, e
 모든 설정과 전적은 사용자 기기 내부에만 저장되며 외부 서버로 전송되지 않습니다. 앱을 삭제하면 함께 삭제됩니다. 자세한 내용은 [개인정보 처리방침](privacy)을 참고하세요.
 
 **Q. 문의는 어디로 하나요?**
-`ibkgpt8434_1@ibk.co.kr` 로 메일 보내주시면 확인 후 답변드립니다.
+`lovelsh.support@gmail.com` 로 메일 보내주시면 확인 후 답변드립니다.
 
 ---
 
@@ -83,4 +83,4 @@ Yes. A one-time in-app **Remove Ads** purchase permanently removes the bottom ba
 All preferences and match history are stored only on your device and never uploaded to any server. Deleting the app removes them. See the [Privacy Policy](privacy) for details.
 
 **Q. How do I contact support?**
-Email `ibkgpt8434_1@ibk.co.kr` and we'll get back to you.
+Email `lovelsh.support@gmail.com` and we'll get back to you.
