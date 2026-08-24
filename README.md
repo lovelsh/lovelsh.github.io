@@ -11,6 +11,7 @@ This site hosts the **Support** and **Privacy Policy** pages for lovelsh's iOS a
 | **MonthlyTodo (월간일정)** | [/MonthlyTodo/](./MonthlyTodo/) | [/MonthlyTodo/privacy](./MonthlyTodo/privacy.md) |
 | **SubCheck (서브체크)** | [/SubCheck/](./SubCheck/) | [/SubCheck/privacy](./SubCheck/privacy.md) |
 | **ScheMng (자녀일정)** | [/ScheMng/](./ScheMng/) | [/ScheMng/privacy](./ScheMng/privacy.md) |
+| **FamTic (팸틱)** | [/FamTic/](./FamTic/) | [/FamTic/privacy](./FamTic/privacy.md) |
 
 ## 문의 / Contact
 
