@@ -1,7 +1,8 @@
 # FamTic — Support / 자주 묻는 질문
 
 - ✉️ Email: **lovelsh.support@gmail.com**
-- 🔒 [Privacy Policy / 개인정보 처리방침](./privacy.md)
+- 🇰🇷 한국어: [개인정보 처리방침](./privacy.md) · 지원(이 페이지)
+- 🇺🇸 English: [Privacy Policy](./privacy-en.md) · [Support (English only)](./support-en.md)
 
 ---
 
@@ -33,7 +34,10 @@
 - When you later create a fam, everything you built up in solo mode is migrated over — nothing is lost.
 
 #### Q. Who can see what I add?
-- Every item carries a **sharing scope**: everyone in the fam, specific members only, or just me.
+- Every item carries a **sharing scope**: everyone in your fam, selected members only, or only me.
+  "Everyone" means **everyone in your own fam — it is never public**.
+- FamTic has **no public feed, no timeline, no search and no matching with strangers.** What you write
+  never leaves the fam you invited.
 - The scope is enforced by server-side security rules, not just hidden in the UI — items you are not
   allowed to see are never delivered to your device.
 
@@ -111,8 +115,11 @@ Please email **lovelsh.support@gmail.com** with:
 - 나중에 팸을 만들면 솔로에서 쌓아 둔 기록이 그대로 옮겨집니다. 유실되지 않습니다.
 
 #### Q. 내가 등록한 항목은 누가 볼 수 있나요?
-- 항목마다 **공개 범위**(전체 공개 / 특정 멤버만 / 나만 보기)를 고를 수 있습니다.
-- 공개 범위는 화면에서만 가리는 것이 아니라 서버 보안 규칙으로 강제됩니다. 볼 권한이 없는 항목은
+- 항목마다 **공유 범위**(팸 전체 / 특정 멤버 / 나만 보기)를 고를 수 있습니다. 여기서 **"팸 전체"는 인터넷
+  공개가 아니라 내가 초대해 합류한 우리 팸 구성원 전원**을 뜻합니다.
+- 팸틱에는 **공개 게시판·타임라인·검색·낯선 사람과의 매칭 기능이 없습니다.** 내가 적은 내용이 팸 밖으로
+  나가는 경로 자체가 없습니다.
+- 공유 범위는 화면에서만 가리는 것이 아니라 서버 보안 규칙으로 강제됩니다. 볼 권한이 없는 항목은
   기기로 아예 내려오지 않습니다.
 
 #### Q. 기념일에 음력을 쓸 수 있나요?

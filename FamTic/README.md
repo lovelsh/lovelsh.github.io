@@ -4,9 +4,8 @@ Welcome! This is the support page for **FamTic** (팸틱), an iPhone app that ke
 day in one place — schedules, anniversaries (solar & lunar), shopping lists, tuition due dates,
 notes, trip packing lists, and living expenses.
 
-- 🇰🇷 한국어 안내는 아래 [한국어](#한국어) 섹션을 참고하세요.
-- 🔒 Privacy Policy: [privacy](./privacy.md)
-- ❓ Frequently Asked Questions: [support](./support.md)
+- 🇰🇷 한국어: [개인정보 처리방침](./privacy.md) · [자주 묻는 질문](./support.md) · 아래 [한국어](#한국어) 섹션
+- 🇺🇸 English: [Privacy Policy](./privacy-en.md) · [Support FAQ](./support-en.md)
 - ✉️ Email: **lovelsh.support@gmail.com**
 
 This page powers the **Support URL** and **Privacy Policy URL** registered with App Store Connect for
@@ -20,15 +19,17 @@ the app. It is served by GitHub Pages from the
 ### Quick Links
 - App Store: _(updated after release)_
 - Email: **lovelsh.support@gmail.com**
-- Privacy Policy: [privacy](./privacy.md)
-- Support FAQ: [support](./support.md)
+- Privacy Policy: [privacy-en](./privacy-en.md)
+- Support FAQ: [support-en](./support-en.md)
 
 ### About the App
 FamTic gathers the things a family keeps losing track of in group chats — what to buy, when tuition
 is due, which lunar date grandmother's birthday falls on — into per-module cards that everyone in the
 "fam" sees at once. There is **no sign-up**: open the app and start. One invite code brings a family
-member in, and every item carries its own sharing scope (everyone / specific members / just me),
-enforced by server-side rules rather than by the UI alone.
+member in, and every item carries its own sharing scope (everyone in the fam / selected members /
+only me), enforced by server-side rules rather than by the UI alone. "Everyone" means everyone in your
+own fam — FamTic has **no public feed, no search and no matching with strangers**, so nothing you write
+leaves the fam you invited.
 
 Solo mode is free forever, so you can try every module before inviting anyone.
 
@@ -51,8 +52,10 @@ The fastest way to reach us is by email at **lovelsh.support@gmail.com**.
 우리 팸 전원이 같은 화면을 보게 합니다.
 
 **회원가입이 없습니다.** 이메일·전화번호·비밀번호를 묻지 않고, 앱을 열면 바로 시작합니다.
-초대 코드 한 번으로 가족이 합류하고, 항목마다 공개 범위(전체 / 특정 멤버 / 나만 보기)를 직접
-고를 수 있습니다. 공개 범위는 화면에서만 가리는 것이 아니라 **서버 규칙으로도 강제**됩니다.
+초대 코드 한 번으로 가족이 합류하고, 항목마다 공유 범위(팸 전체 / 특정 멤버 / 나만 보기)를 직접
+고를 수 있습니다. 여기서 **"팸 전체"는 인터넷 공개가 아니라 내가 초대한 우리 팸 구성원 전원**을 뜻합니다.
+팸틱에는 **공개 게시판·검색·낯선 사람과의 매칭 기능이 없습니다.** 공유 범위는 화면에서만 가리는 것이
+아니라 **서버 규칙으로도 강제**됩니다.
 
 솔로(체험) 모드는 계속 무료이므로, 가족을 초대하기 전에 모든 모듈을 먼저 써 보실 수 있습니다.
 
