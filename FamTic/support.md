@@ -59,6 +59,17 @@
 - Solo mode stays free.
 - Moved to a new device? Use **Settings → Restore purchases**.
 
+#### Q. Does FamTic show advertising?
+- Yes. While you use FamTic for free, a single **Google AdMob banner** sits at the bottom of the hub
+  screen. FamTic uses no interstitial, rewarded or video ad formats.
+- Buying **Remove Ads** — or **Together Unlock**, which already includes it — makes the banner go away.
+- The first time you reach the hub, FamTic explains why it is asking and then shows the iOS **App
+  Tracking Transparency** prompt. **Declining is fine: every feature keeps working**, and the banner is
+  limited to non-personalised ads.
+- In the EEA and the UK an extra consent step follows the ATT prompt, and you can reopen it any time
+  from **Settings → Ad privacy settings**.
+- Full details are in §7 of the [Privacy Policy](./privacy-en.md).
+
 #### Q. How do I delete my data or my account?
 - In the app: **Settings → Delete account & data**, then confirm twice.
 - If you are the **owner**, deleting removes the whole fam — every shared module document, all member
@@ -138,6 +149,16 @@ Please email **lovelsh.support@gmail.com** with:
 - 결제는 **대표만** 하면 됩니다. 대표가 초대한 구성원은 추가 결제 없이 무료로 함께 씁니다.
 - 솔로 모드는 계속 무료입니다.
 - 기기를 바꾼 경우 **설정 → 구매 복원**을 이용해 주세요.
+
+#### Q. 광고가 보이나요?
+- 네. 무료로 쓰시는 동안 허브 화면 **맨 아래에 Google AdMob 배너 한 줄**이 표시됩니다. 전면 광고·보상형
+  광고·동영상 광고는 사용하지 않습니다.
+- **광고 제거**를 구매하시거나, 광고 제거가 포함된 **함께 쓰기 이용권**을 구매하시면 배너가 사라집니다.
+- 허브에 처음 들어가시면 왜 묻는지 설명해 드린 뒤 iOS **앱 추적 투명성(ATT)** 창이 뜹니다. **허용하지
+  않으셔도 모든 기능을 그대로 쓰실 수 있고**, 배너는 개인화되지 않은 광고로만 표시됩니다.
+- 유럽경제지역(EEA)·영국 등에서는 ATT 다음에 동의 창이 한 번 더 뜨며, **설정 → 광고 개인정보 설정**에서
+  언제든 다시 여실 수 있습니다.
+- 자세한 내용은 [개인정보 처리방침](./privacy.md) §7 을 참고해 주세요.
 
 #### Q. 데이터나 계정을 삭제하려면?
 - 앱 안에서 **설정 → 데이터 관리 → 계정 및 데이터 삭제**를 누르고 두 번 확인하면 됩니다.

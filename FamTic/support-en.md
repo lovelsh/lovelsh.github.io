@@ -59,6 +59,17 @@
 - Solo mode stays free.
 - Moved to a new device? Use **Settings → Restore purchases**.
 
+#### Q. Does FamTic show advertising?
+- Yes. While you use FamTic for free, a single **Google AdMob banner** sits at the bottom of the hub
+  screen. FamTic uses no interstitial, rewarded or video ad formats.
+- Buying **Remove Ads** — or **Together Unlock**, which already includes it — makes the banner go away.
+- The first time you reach the hub, FamTic explains why it is asking and then shows the iOS **App
+  Tracking Transparency** prompt. **Declining is fine: every feature keeps working**, and the banner is
+  limited to non-personalised ads.
+- In the EEA and the UK an extra consent step follows the ATT prompt, and you can reopen it any time
+  from **Settings → Ad privacy settings**.
+- Full details are in §7 of the [Privacy Policy](./privacy-en.md).
+
 #### Q. How do I delete my data or my account?
 - In the app: **Settings → Delete account & data**, then confirm twice.
 - If you are the **owner**, deleting removes the whole fam — every shared module document, all member

@@ -35,6 +35,10 @@ number, date of birth or postal address — or any other personally identifying 
 - This anonymous identifier is **not linked** to your Google account, Apple ID, email address or phone
   number.
 - Everything else the app stores is limited to **data you type in yourself**.
+- ⚠️ **There is one exception — advertising.** While you use the app for free, a banner ad is displayed,
+  and if you allow it, your device's **advertising identifier (IDFA)** together with ad impression and
+  click records is passed to our advertising provider (Google AdMob). That information is handled by the
+  advertising provider rather than kept by us; **§7** describes it in full.
 
 ### 2. What you type in
 
@@ -78,8 +82,11 @@ Where your data lives depends on how you use the app.
   rule level.** They are not merely hidden in the UI.
 - A fam holds at most 10 members.
 
-We do not run our own servers, and we do not transmit your data anywhere other than the Firestore project
-described above.
+We do not run our own servers, and we do not transmit the data you enter anywhere other than the Firestore
+project described above. **The advertising items covered in §7 (advertising identifier and ad impression
+records) are the exception: they are passed to our advertising provider, Google LLC.** The content you
+enter — schedules, anniversaries, shopping lists, tuition, notes, trips and living expenses — is never
+passed to the advertising provider.
 
 ### 4. What "sharing" means — only with the family members you invited
 
@@ -115,23 +122,46 @@ get your fam back.
 
 ### 6. In-app purchases
 
-- The app offers **one non-consumable, one-time in-app purchase**.
+- The app offers **two non-consumable, one-time in-app purchases**. Neither is a subscription, so neither
+  auto-renews.
   - Together Unlock (`com.lovelsh.FamilyPlan.together`) — unlocks using the app together with your
-    family. **The owner pays once and every invited member uses it with no further purchase.**
+    family. **The owner pays once and every invited member uses it with no further purchase.** This
+    purchase **also removes the banner ad described in §7.**
+  - Remove Ads (`com.lovelsh.FamilyPlan.adfree`) — **turns off the banner ad described in §7.** It is
+    intended for people using the app on their own; if you already bought Together Unlock, you do not
+    need to buy it separately.
 - All payments go through Apple's payment system (StoreKit) and are processed by Apple. The app **does not
   collect or store payment method details such as card numbers.**
 - Only the fact that a fam is paid, and the recovery hash described in §5, are stored in Firestore.
-- This is not a subscription and does not auto-renew.
 
-### 7. Advertising / advertising identifier
+### 7. Advertising / advertising identifier (IDFA)
 
-- **The app does not display advertising.** Because no ads are shown, no data is collected, transmitted or
-  shared with third parties for advertising purposes.
-- The app **does not request App Tracking Transparency (ATT) permission, and therefore does not access the
-  advertising identifier (IDFA).**
-- The app **does not track you across other companies' apps and websites.**
-- The app **does not use behavioural analytics SDKs such as Firebase Analytics.** The only external SDKs
-  the app actually initialises and uses are Firebase Authentication and Firebase Firestore.
+- **The app displays advertising.** While you use it for free, a single **Google AdMob (Google LLC) banner
+  (50pt tall)** is shown at the bottom of the home (hub) screen. The app uses no interstitial, rewarded or
+  video ad formats.
+- **Buying either "Remove Ads" or "Together Unlock" (§6) makes the banner go away.** In that case the
+  consent steps below (ATT and UMP) are not run and the AdMob SDK is never started, so no data is sent for
+  advertising purposes.
+- **The app requests App Tracking Transparency (ATT) permission.** The prompt does not appear the moment
+  you first open the app: it is shown **when you reach the hub screen and are about to see the banner, and
+  only after a screen that explains why we are asking.**
+- If you **allow** tracking in the ATT prompt, your device's **advertising identifier (IDFA)** may be used
+  to personalise ads and measure their performance. That amounts to **tracking you across other companies'
+  apps and websites**, and we declare it as such — "Data Used to Track You" — in the App Store privacy
+  section.
+- **If you decline, every FamTic feature still works exactly the same.** When you decline, the app cannot
+  read the advertising identifier, and the banner is limited to non-personalised ads.
+- The items passed to and collected by **Google LLC** for advertising are the **advertising identifier
+  (IDFA)**, **advertising data such as impressions and clicks**, and **product interaction records**. The
+  content you enter into the app is not passed on for advertising purposes. Google's handling of that
+  data is governed by the Google Privacy Policy (https://policies.google.com/privacy).
+- In regions that require prior consent, such as the EEA and the UK, an additional **Google User Messaging
+  Platform (UMP)** consent step follows the ATT prompt. **Until that consent is complete the app does not
+  start the AdMob SDK, so no ad request is made at all.** In those regions you can reopen the consent
+  choices at any time from **[Settings → Ad privacy settings]**.
+- Advertising aside, the app **does not use behavioural analytics SDKs such as Firebase Analytics.** The
+  external SDKs the app actually initialises and uses are Firebase Authentication, Firebase Firestore and
+  the Google AdMob SDK (including UMP).
 
 ### 8. Permissions
 
